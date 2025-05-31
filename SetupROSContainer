@@ -16,7 +16,7 @@ docker run -it --rm --name ros2 \
 echo "To enable GUI applications on macOS:"
 echo "1. Install Homebrew first (choose one method):"
 echo "   Copy and paste this command:"
-echo '   curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh | /bin/bash'
+echo '/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 echo "   Method B: Visit https://brew.sh and follow instructions"
 echo ""
 echo "   After installation, run these commands to add Homebrew to your PATH:"

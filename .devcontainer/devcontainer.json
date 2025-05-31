@@ -8,8 +8,10 @@
         "--privileged",
         "--network=host",
         "--platform=linux/arm64",
-        "-e",
-        "DISPLAY=${env:DISPLAY}"
+        "-e", "DISPLAY=${env:DISPLAY}",
+        "-v", "/tmp/.X11-unix:/tmp/.X11-unix",
+        "-e", "QT_X11_NO_MITSHM=1",
+        "-e", "LIBGL_ALWAYS_INDIRECT=1"
     ],
     "remoteUser": "ros",
     "customizations": {
@@ -17,12 +19,14 @@
             "extensions": [
                 "ms-vscode.cpptools",
                 "ms-python.python",
-                "ms-iot.vscode-ros"
+                "ms-iot.vscode-ros",
+                "jeff-hykin.better-cpp-syntax",
+                "hansknecht.vscode-audio"
             ]
         }
     },
     "remoteEnv": {
         "DISPLAY": "${localEnv:DISPLAY}"
     },
-    "postCreateCommand": "sudo chown -R ros:ros /home/ros/ros2_ws"
+    "postCreateCommand": "sudo chown -R ros:ros /home/ros/ros2_ws && echo 'source /opt/ros/humble/setup.bash' >> /home/ros/.bashrc"
 }
