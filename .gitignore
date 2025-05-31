@@ -1,0 +1,25 @@
+# ROS 2 build and install folders
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Devcontainer settings
+.devcontainer/
+
+# System files
+.DS_Store
+
+# ROS 2 launch logs
+*.launch.pyc
+
+# Colcon metadata
+.colcon/
+
+# ...add more as needed...
