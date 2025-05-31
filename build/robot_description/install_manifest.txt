@@ -1,0 +1,16 @@
+/workspaces/RosTryOut/install/robot_description/share/robot_description/urdf/mobile_robot.urdf.xacro 
+/workspaces/RosTryOut/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+/workspaces/RosTryOut/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+/workspaces/RosTryOut/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+/workspaces/RosTryOut/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+/workspaces/RosTryOut/install/robot_description/share/robot_description/environment/path.sh
+/workspaces/RosTryOut/install/robot_description/share/robot_description/environment/path.dsv
+/workspaces/RosTryOut/install/robot_description/share/robot_description/local_setup.bash
+/workspaces/RosTryOut/install/robot_description/share/robot_description/local_setup.sh
+/workspaces/RosTryOut/install/robot_description/share/robot_description/local_setup.zsh
+/workspaces/RosTryOut/install/robot_description/share/robot_description/local_setup.dsv
+/workspaces/RosTryOut/install/robot_description/share/robot_description/package.dsv
+/workspaces/RosTryOut/install/robot_description/share/ament_index/resource_index/packages/robot_description
+/workspaces/RosTryOut/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+/workspaces/RosTryOut/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+/workspaces/RosTryOut/install/robot_description/share/robot_description/package.xml

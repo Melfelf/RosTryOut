@@ -1,0 +1,16 @@
+/workspaces/RosTryOut/src/install/speech_to_text/lib/speech_to_text/whisper_node.py
+/workspaces/RosTryOut/src/install/speech_to_text/share/ament_index/resource_index/package_run_dependencies/speech_to_text
+/workspaces/RosTryOut/src/install/speech_to_text/share/ament_index/resource_index/parent_prefix_path/speech_to_text
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/environment/ament_prefix_path.sh
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/environment/ament_prefix_path.dsv
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/environment/path.sh
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/environment/path.dsv
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/local_setup.bash
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/local_setup.sh
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/local_setup.zsh
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/local_setup.dsv
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/package.dsv
+/workspaces/RosTryOut/src/install/speech_to_text/share/ament_index/resource_index/packages/speech_to_text
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/cmake/speech_to_textConfig.cmake
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/cmake/speech_to_textConfig-version.cmake
+/workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/package.xml

@@ -1,0 +1,53 @@
+[0.027s] Invoking command in '/workspaces/RosTryOut/src/build/speech_to_text': /usr/bin/cmake /workspaces/RosTryOut/src/speech_to_text -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/workspaces/RosTryOut/src/install/speech_to_text
+[0.099s] -- The C compiler identification is GNU 11.4.0
+[0.171s] -- The CXX compiler identification is GNU 11.4.0
+[0.190s] -- Detecting C compiler ABI info
+[0.275s] -- Detecting C compiler ABI info - done
+[0.283s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.284s] -- Detecting C compile features
+[0.285s] -- Detecting C compile features - done
+[0.289s] -- Detecting CXX compiler ABI info
+[0.405s] -- Detecting CXX compiler ABI info - done
+[0.419s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.420s] -- Detecting CXX compile features
+[0.420s] -- Detecting CXX compile features - done
+[0.426s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.501s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.563s] -- Found rclpy: 3.3.16 (/opt/ros/humble/share/rclpy/cmake)
+[0.564s] -- Found std_msgs: 4.8.0 (/opt/ros/humble/share/std_msgs/cmake)
+[0.582s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.583s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.588s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.594s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.601s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.699s] -- Configuring done
+[0.731s] -- Generating done
+[0.738s] [33mCMake Warning:
+[0.738s]   Manually-specified variables were not used by the project:
+[0.739s] 
+[0.740s]     CATKIN_INSTALL_INTO_PREFIX_ROOT
+[0.741s] 
+[0.741s] [0m
+[0.746s] -- Build files have been written to: /workspaces/RosTryOut/src/build/speech_to_text
+[0.750s] Invoked command in '/workspaces/RosTryOut/src/build/speech_to_text' returned '0': /usr/bin/cmake /workspaces/RosTryOut/src/speech_to_text -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/workspaces/RosTryOut/src/install/speech_to_text
+[0.753s] Invoking command in '/workspaces/RosTryOut/src/build/speech_to_text': /usr/bin/cmake --build /workspaces/RosTryOut/src/build/speech_to_text -- -j8 -l8
+[0.781s] Invoked command in '/workspaces/RosTryOut/src/build/speech_to_text' returned '0': /usr/bin/cmake --build /workspaces/RosTryOut/src/build/speech_to_text -- -j8 -l8
+[0.783s] Invoking command in '/workspaces/RosTryOut/src/build/speech_to_text': /usr/bin/cmake --install /workspaces/RosTryOut/src/build/speech_to_text
+[0.786s] -- Install configuration: ""
+[0.786s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/lib/speech_to_text/whisper_node.py
+[0.795s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/ament_index/resource_index/package_run_dependencies/speech_to_text
+[0.798s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/ament_index/resource_index/parent_prefix_path/speech_to_text
+[0.802s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/environment/ament_prefix_path.sh
+[0.804s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/environment/ament_prefix_path.dsv
+[0.807s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/environment/path.sh
+[0.810s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/environment/path.dsv
+[0.811s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/local_setup.bash
+[0.813s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/local_setup.sh
+[0.816s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/local_setup.zsh
+[0.818s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/local_setup.dsv
+[0.819s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/package.dsv
+[0.821s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/ament_index/resource_index/packages/speech_to_text
+[0.823s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/cmake/speech_to_textConfig.cmake
+[0.825s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/cmake/speech_to_textConfig-version.cmake
+[0.827s] -- Installing: /workspaces/RosTryOut/src/install/speech_to_text/share/speech_to_text/package.xml
+[0.846s] Invoked command in '/workspaces/RosTryOut/src/build/speech_to_text' returned '0': /usr/bin/cmake --install /workspaces/RosTryOut/src/build/speech_to_text

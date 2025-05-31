@@ -1,0 +1,4 @@
+Invoking command in '/workspaces/RosTryOut/build/speech_to_text': /usr/bin/cmake --build /workspaces/RosTryOut/build/speech_to_text -- -j8 -l8
+Invoked command in '/workspaces/RosTryOut/build/speech_to_text' returned '0': /usr/bin/cmake --build /workspaces/RosTryOut/build/speech_to_text -- -j8 -l8
+Invoking command in '/workspaces/RosTryOut/build/speech_to_text': /usr/bin/cmake --install /workspaces/RosTryOut/build/speech_to_text
+Invoked command in '/workspaces/RosTryOut/build/speech_to_text' returned '0': /usr/bin/cmake --install /workspaces/RosTryOut/build/speech_to_text

@@ -1,26 +1,26 @@
-FROM --platform=linux/arm64 ros:humble
+FROM osrf/ros:humble-desktop
 
-# Install desktop components and development tools
-RUN apt-get update && apt-get install -y \
-    ros-humble-desktop \
-    python3-pip \
-    git \
-    bash-completion \
-    vim \
-    x11-apps \
-    && rm -rf /var/lib/apt/lists/*
+# Install required packages for ROS 2 development and simulation
+RUN apt-get update && \
+    apt-get install -y \
+        python3-colcon-common-extensions \
+        ros-humble-gazebo-ros-pkgs \
+        ros-humble-xacro \
+        ros-humble-joint-state-publisher-gui \
+        ros-humble-rviz2 \
+        ros-humble-ros2-control \
+        ros-humble-ros2-controllers \
+        build-essential \
+        git \
+        curl \
+        lsb-release \
+        sudo \
+        && rm -rf /var/lib/apt/lists/*
 
 # Create non-root user
 RUN groupadd --gid 1000 ros && \
     useradd --uid 1000 --gid ros --shell /bin/bash --create-home ros && \
     echo "ros ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers.d/nopasswd
-
-# Setup ROS environment
-RUN echo "source /opt/ros/humble/setup.bash" >> /home/ros/.bashrc && \
-    echo "source /usr/share/bash-completion/completions/ros2" >> /home/ros/.bashrc
-
-# Create workspace directory and set permissions
-RUN mkdir -p /home/ros/ros2_ws/src && chown -R ros:ros /home/ros/ros2_ws
 
 # Switch to ros user
 USER ros

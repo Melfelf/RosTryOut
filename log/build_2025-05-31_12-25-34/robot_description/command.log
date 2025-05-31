@@ -1,0 +1,6 @@
+Invoking command in '/workspaces/RosTryOut/build/robot_description': /usr/bin/cmake /workspaces/RosTryOut/src/robot_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/workspaces/RosTryOut/install/robot_description
+Invoked command in '/workspaces/RosTryOut/build/robot_description' returned '0': /usr/bin/cmake /workspaces/RosTryOut/src/robot_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/workspaces/RosTryOut/install/robot_description
+Invoking command in '/workspaces/RosTryOut/build/robot_description': /usr/bin/cmake --build /workspaces/RosTryOut/build/robot_description -- -j8 -l8
+Invoked command in '/workspaces/RosTryOut/build/robot_description' returned '0': /usr/bin/cmake --build /workspaces/RosTryOut/build/robot_description -- -j8 -l8
+Invoking command in '/workspaces/RosTryOut/build/robot_description': /usr/bin/cmake --install /workspaces/RosTryOut/build/robot_description
+Invoked command in '/workspaces/RosTryOut/build/robot_description' returned '0': /usr/bin/cmake --install /workspaces/RosTryOut/build/robot_description

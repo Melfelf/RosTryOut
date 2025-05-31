@@ -1,0 +1,16 @@
+/workspaces/RosTryOut/install/voice_command_node/lib/voice_command_node/voice_control.py
+/workspaces/RosTryOut/install/voice_command_node/share/ament_index/resource_index/package_run_dependencies/voice_command_node
+/workspaces/RosTryOut/install/voice_command_node/share/ament_index/resource_index/parent_prefix_path/voice_command_node
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/environment/ament_prefix_path.sh
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/environment/ament_prefix_path.dsv
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/environment/path.sh
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/environment/path.dsv
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/local_setup.bash
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/local_setup.sh
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/local_setup.zsh
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/local_setup.dsv
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/package.dsv
+/workspaces/RosTryOut/install/voice_command_node/share/ament_index/resource_index/packages/voice_command_node
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/cmake/voice_command_nodeConfig.cmake
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/cmake/voice_command_nodeConfig-version.cmake
+/workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/package.xml

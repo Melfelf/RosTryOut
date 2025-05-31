@@ -1,0 +1,49 @@
+[0.020s] Invoking command in '/workspaces/RosTryOut/build/robot_simulation': /usr/bin/cmake /workspaces/RosTryOut/src/robot_simulation -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/workspaces/RosTryOut/install/robot_simulation
+[0.126s] -- The C compiler identification is GNU 11.4.0
+[0.167s] -- The CXX compiler identification is GNU 11.4.0
+[0.174s] -- Detecting C compiler ABI info
+[0.231s] -- Detecting C compiler ABI info - done
+[0.236s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.236s] -- Detecting C compile features
+[0.237s] -- Detecting C compile features - done
+[0.240s] -- Detecting CXX compiler ABI info
+[0.300s] -- Detecting CXX compiler ABI info - done
+[0.306s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.307s] -- Detecting CXX compile features
+[0.307s] -- Detecting CXX compile features - done
+[0.317s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.390s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.511s] -- Configuring done
+[0.523s] -- Generating done
+[0.525s] [33mCMake Warning:
+[0.526s]   Manually-specified variables were not used by the project:
+[0.526s] 
+[0.526s]     CATKIN_INSTALL_INTO_PREFIX_ROOT
+[0.526s] 
+[0.526s] [0m
+[0.531s] -- Build files have been written to: /workspaces/RosTryOut/build/robot_simulation
+[0.531s] Invoked command in '/workspaces/RosTryOut/build/robot_simulation' returned '0': /usr/bin/cmake /workspaces/RosTryOut/src/robot_simulation -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/workspaces/RosTryOut/install/robot_simulation
+[0.532s] Invoking command in '/workspaces/RosTryOut/build/robot_simulation': /usr/bin/cmake --build /workspaces/RosTryOut/build/robot_simulation -- -j8 -l8
+[0.549s] Invoked command in '/workspaces/RosTryOut/build/robot_simulation' returned '0': /usr/bin/cmake --build /workspaces/RosTryOut/build/robot_simulation -- -j8 -l8
+[0.551s] Invoking command in '/workspaces/RosTryOut/build/robot_simulation': /usr/bin/cmake --install /workspaces/RosTryOut/build/robot_simulation
+[0.554s] -- Install configuration: ""
+[0.554s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/launch
+[0.554s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/launch/sim_launch.py
+[0.555s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/worlds
+[0.556s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/worlds/empty.world
+[0.558s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/ament_index/resource_index/package_run_dependencies/robot_simulation
+[0.559s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/ament_index/resource_index/parent_prefix_path/robot_simulation
+[0.560s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/environment/ament_prefix_path.sh
+[0.562s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/environment/ament_prefix_path.dsv
+[0.563s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/environment/path.sh
+[0.564s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/environment/path.dsv
+[0.565s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/local_setup.bash
+[0.566s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/local_setup.sh
+[0.567s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/local_setup.zsh
+[0.568s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/local_setup.dsv
+[0.569s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/package.dsv
+[0.571s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/ament_index/resource_index/packages/robot_simulation
+[0.572s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/cmake/robot_simulationConfig.cmake
+[0.573s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/cmake/robot_simulationConfig-version.cmake
+[0.574s] -- Installing: /workspaces/RosTryOut/install/robot_simulation/share/robot_simulation/package.xml
+[0.576s] Invoked command in '/workspaces/RosTryOut/build/robot_simulation' returned '0': /usr/bin/cmake --install /workspaces/RosTryOut/build/robot_simulation

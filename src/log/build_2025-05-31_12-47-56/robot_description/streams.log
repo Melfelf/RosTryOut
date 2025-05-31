@@ -1,0 +1,47 @@
+[0.017s] Invoking command in '/workspaces/RosTryOut/src/build/robot_description': /usr/bin/cmake /workspaces/RosTryOut/src/robot_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/workspaces/RosTryOut/src/install/robot_description
+[0.100s] -- The C compiler identification is GNU 11.4.0
+[0.188s] -- The CXX compiler identification is GNU 11.4.0
+[0.198s] -- Detecting C compiler ABI info
+[0.281s] -- Detecting C compiler ABI info - done
+[0.288s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.289s] -- Detecting C compile features
+[0.292s] -- Detecting C compile features - done
+[0.295s] -- Detecting CXX compiler ABI info
+[0.407s] -- Detecting CXX compiler ABI info - done
+[0.424s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.424s] -- Detecting CXX compile features
+[0.425s] -- Detecting CXX compile features - done
+[0.429s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.500s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.639s] -- Configuring done
+[0.676s] -- Generating done
+[0.684s] [33mCMake Warning:
+[0.685s]   Manually-specified variables were not used by the project:
+[0.685s] 
+[0.686s]     CATKIN_INSTALL_INTO_PREFIX_ROOT
+[0.686s] 
+[0.687s] [0m
+[0.698s] -- Build files have been written to: /workspaces/RosTryOut/src/build/robot_description
+[0.708s] Invoked command in '/workspaces/RosTryOut/src/build/robot_description' returned '0': /usr/bin/cmake /workspaces/RosTryOut/src/robot_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/workspaces/RosTryOut/src/install/robot_description
+[0.709s] Invoking command in '/workspaces/RosTryOut/src/build/robot_description': /usr/bin/cmake --build /workspaces/RosTryOut/src/build/robot_description -- -j8 -l8
+[0.737s] Invoked command in '/workspaces/RosTryOut/src/build/robot_description' returned '0': /usr/bin/cmake --build /workspaces/RosTryOut/src/build/robot_description -- -j8 -l8
+[0.743s] Invoking command in '/workspaces/RosTryOut/src/build/robot_description': /usr/bin/cmake --install /workspaces/RosTryOut/src/build/robot_description
+[0.748s] -- Install configuration: ""
+[0.748s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/urdf
+[0.749s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/urdf/mobile_robot.urdf.xacro 
+[0.753s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+[0.759s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+[0.763s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+[0.765s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+[0.769s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/environment/path.sh
+[0.771s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/environment/path.dsv
+[0.774s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/local_setup.bash
+[0.777s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/local_setup.sh
+[0.787s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/local_setup.zsh
+[0.789s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/local_setup.dsv
+[0.790s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/package.dsv
+[0.796s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/ament_index/resource_index/packages/robot_description
+[0.802s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+[0.803s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+[0.806s] -- Installing: /workspaces/RosTryOut/src/install/robot_description/share/robot_description/package.xml
+[0.838s] Invoked command in '/workspaces/RosTryOut/src/build/robot_description' returned '0': /usr/bin/cmake --install /workspaces/RosTryOut/src/build/robot_description

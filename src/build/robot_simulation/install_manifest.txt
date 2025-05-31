@@ -1,0 +1,17 @@
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/launch/sim_launch.py
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/worlds/empty.world
+/workspaces/RosTryOut/src/install/robot_simulation/share/ament_index/resource_index/package_run_dependencies/robot_simulation
+/workspaces/RosTryOut/src/install/robot_simulation/share/ament_index/resource_index/parent_prefix_path/robot_simulation
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/environment/ament_prefix_path.sh
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/environment/ament_prefix_path.dsv
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/environment/path.sh
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/environment/path.dsv
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/local_setup.bash
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/local_setup.sh
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/local_setup.zsh
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/local_setup.dsv
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/package.dsv
+/workspaces/RosTryOut/src/install/robot_simulation/share/ament_index/resource_index/packages/robot_simulation
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/cmake/robot_simulationConfig.cmake
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/cmake/robot_simulationConfig-version.cmake
+/workspaces/RosTryOut/src/install/robot_simulation/share/robot_simulation/package.xml

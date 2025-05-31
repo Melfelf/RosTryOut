@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>voice_command_node</name>
+  <version>0.0.1</version>
+  <description>Voice command node that maps text to /cmd_vel</description>
+  <maintainer email="user@example.com">User</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <exec_depend>ament_cmake</exec_depend>
+</package>

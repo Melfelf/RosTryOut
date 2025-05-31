@@ -1,0 +1,4 @@
+Invoking command in '/workspaces/RosTryOut/build/robot_simulation': /usr/bin/cmake --build /workspaces/RosTryOut/build/robot_simulation -- -j8 -l8
+Invoked command in '/workspaces/RosTryOut/build/robot_simulation' returned '0': /usr/bin/cmake --build /workspaces/RosTryOut/build/robot_simulation -- -j8 -l8
+Invoking command in '/workspaces/RosTryOut/build/robot_simulation': /usr/bin/cmake --install /workspaces/RosTryOut/build/robot_simulation
+Invoked command in '/workspaces/RosTryOut/build/robot_simulation' returned '0': /usr/bin/cmake --install /workspaces/RosTryOut/build/robot_simulation

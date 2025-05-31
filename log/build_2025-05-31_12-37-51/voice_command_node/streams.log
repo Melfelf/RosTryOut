@@ -1,0 +1,21 @@
+[0.035s] Invoking command in '/workspaces/RosTryOut/build/voice_command_node': /usr/bin/cmake --build /workspaces/RosTryOut/build/voice_command_node -- -j8 -l8
+[0.071s] Invoked command in '/workspaces/RosTryOut/build/voice_command_node' returned '0': /usr/bin/cmake --build /workspaces/RosTryOut/build/voice_command_node -- -j8 -l8
+[0.080s] Invoking command in '/workspaces/RosTryOut/build/voice_command_node': /usr/bin/cmake --install /workspaces/RosTryOut/build/voice_command_node
+[0.102s] -- Install configuration: ""
+[0.102s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/lib/voice_command_node/voice_control.py
+[0.102s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/ament_index/resource_index/package_run_dependencies/voice_command_node
+[0.102s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/ament_index/resource_index/parent_prefix_path/voice_command_node
+[0.103s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/environment/ament_prefix_path.sh
+[0.103s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/environment/ament_prefix_path.dsv
+[0.103s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/environment/path.sh
+[0.103s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/environment/path.dsv
+[0.104s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/local_setup.bash
+[0.104s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/local_setup.sh
+[0.104s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/local_setup.zsh
+[0.105s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/local_setup.dsv
+[0.105s] -- Installing: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/package.dsv
+[0.106s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/ament_index/resource_index/packages/voice_command_node
+[0.108s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/cmake/voice_command_nodeConfig.cmake
+[0.108s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/cmake/voice_command_nodeConfig-version.cmake
+[0.109s] -- Up-to-date: /workspaces/RosTryOut/install/voice_command_node/share/voice_command_node/package.xml
+[0.124s] Invoked command in '/workspaces/RosTryOut/build/voice_command_node' returned '0': /usr/bin/cmake --install /workspaces/RosTryOut/build/voice_command_node

@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+0868bd2676aa3154732bea5e915b835e CMakeFiles/speech_to_text_uninstall

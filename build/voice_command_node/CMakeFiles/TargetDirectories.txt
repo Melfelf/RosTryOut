@@ -1,0 +1,9 @@
+/workspaces/RosTryOut/build/voice_command_node/CMakeFiles/uninstall.dir
+/workspaces/RosTryOut/build/voice_command_node/CMakeFiles/voice_command_node_uninstall.dir
+/workspaces/RosTryOut/build/voice_command_node/CMakeFiles/test.dir
+/workspaces/RosTryOut/build/voice_command_node/CMakeFiles/edit_cache.dir
+/workspaces/RosTryOut/build/voice_command_node/CMakeFiles/rebuild_cache.dir
+/workspaces/RosTryOut/build/voice_command_node/CMakeFiles/list_install_components.dir
+/workspaces/RosTryOut/build/voice_command_node/CMakeFiles/install.dir
+/workspaces/RosTryOut/build/voice_command_node/CMakeFiles/install/local.dir
+/workspaces/RosTryOut/build/voice_command_node/CMakeFiles/install/strip.dir

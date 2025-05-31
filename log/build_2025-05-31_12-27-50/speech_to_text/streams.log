@@ -1,0 +1,21 @@
+[0.015s] Invoking command in '/workspaces/RosTryOut/build/speech_to_text': /usr/bin/cmake --build /workspaces/RosTryOut/build/speech_to_text -- -j8 -l8
+[0.051s] Invoked command in '/workspaces/RosTryOut/build/speech_to_text' returned '0': /usr/bin/cmake --build /workspaces/RosTryOut/build/speech_to_text -- -j8 -l8
+[0.054s] Invoking command in '/workspaces/RosTryOut/build/speech_to_text': /usr/bin/cmake --install /workspaces/RosTryOut/build/speech_to_text
+[0.065s] -- Install configuration: ""
+[0.066s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/lib/speech_to_text/whisper_node.py
+[0.071s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/ament_index/resource_index/package_run_dependencies/speech_to_text
+[0.078s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/ament_index/resource_index/parent_prefix_path/speech_to_text
+[0.078s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/environment/ament_prefix_path.sh
+[0.078s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/environment/ament_prefix_path.dsv
+[0.079s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/environment/path.sh
+[0.079s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/environment/path.dsv
+[0.079s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/local_setup.bash
+[0.080s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/local_setup.sh
+[0.082s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/local_setup.zsh
+[0.085s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/local_setup.dsv
+[0.088s] -- Up-to-date: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/package.dsv
+[0.090s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/ament_index/resource_index/packages/speech_to_text
+[0.091s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/cmake/speech_to_textConfig.cmake
+[0.092s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/cmake/speech_to_textConfig-version.cmake
+[0.094s] -- Installing: /workspaces/RosTryOut/install/speech_to_text/share/speech_to_text/package.xml
+[0.105s] Invoked command in '/workspaces/RosTryOut/build/speech_to_text' returned '0': /usr/bin/cmake --install /workspaces/RosTryOut/build/speech_to_text

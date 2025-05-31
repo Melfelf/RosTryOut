@@ -1,0 +1,9 @@
+/workspaces/RosTryOut/src/build/speech_to_text/CMakeFiles/uninstall.dir
+/workspaces/RosTryOut/src/build/speech_to_text/CMakeFiles/speech_to_text_uninstall.dir
+/workspaces/RosTryOut/src/build/speech_to_text/CMakeFiles/test.dir
+/workspaces/RosTryOut/src/build/speech_to_text/CMakeFiles/edit_cache.dir
+/workspaces/RosTryOut/src/build/speech_to_text/CMakeFiles/rebuild_cache.dir
+/workspaces/RosTryOut/src/build/speech_to_text/CMakeFiles/list_install_components.dir
+/workspaces/RosTryOut/src/build/speech_to_text/CMakeFiles/install.dir
+/workspaces/RosTryOut/src/build/speech_to_text/CMakeFiles/install/local.dir
+/workspaces/RosTryOut/src/build/speech_to_text/CMakeFiles/install/strip.dir

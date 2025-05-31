@@ -1,0 +1,5 @@
+Invoking command in '/workspaces/RosTryOut/build/voice_command_node': /usr/bin/cmake /workspaces/RosTryOut/src/voice_command_node -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/workspaces/RosTryOut/install/voice_command_node
+Invoked command in '/workspaces/RosTryOut/build/voice_command_node' returned '0': /usr/bin/cmake /workspaces/RosTryOut/src/voice_command_node -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/workspaces/RosTryOut/install/voice_command_node
+Invoking command in '/workspaces/RosTryOut/build/voice_command_node': /usr/bin/cmake --build /workspaces/RosTryOut/build/voice_command_node -- -j8 -l8
+Invoked command in '/workspaces/RosTryOut/build/voice_command_node' returned '0': /usr/bin/cmake --build /workspaces/RosTryOut/build/voice_command_node -- -j8 -l8
+Invoking command in '/workspaces/RosTryOut/build/voice_command_node': /usr/bin/cmake --install /workspaces/RosTryOut/build/voice_command_node
