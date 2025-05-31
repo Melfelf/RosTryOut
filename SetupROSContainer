@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Download ROS Container
+docker pull osrf/ros:humble-desktop
+
+# Run Container
+docker run -it --rm --name ros2 \
+  --net=host \
+  --privileged \
+  -e DISPLAY=$DISPLAY \
+  -v /tmp/.X11-unix:/tmp/.X11-unix \
+  -v $(pwd):/root/ros2_ws \
+  osrf/ros:humble-desktop
+
+# Instructions for setting up X11 forwarding on macOS
+echo "To enable GUI applications on macOS:"
+echo "1. Install Homebrew first (choose one method):"
+echo "   Copy and paste this command:"
+echo '   curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh | /bin/bash'
+echo "   Method B: Visit https://brew.sh and follow instructions"
+echo ""
+echo "   After installation, run these commands to add Homebrew to your PATH:"
+echo "   echo 'eval \"\$(/opt/homebrew/bin/brew shellenv)\"' >> ~/.zshrc"
+echo "   eval \"\$(/opt/homebrew/bin/brew shellenv)\""
+echo ""
+echo "2. Install XQuartz: brew install --cask xquartz"
+echo "3. Run: xhost +localhost"
+echo "4. Open VS Code and reopen in container"
